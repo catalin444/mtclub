@@ -85,7 +85,7 @@ body {
 /* Banner */
 .banner {
     height: 50vw;
-    background: url(resources/banner.jpg);
+    background: url(banner.jpg);
     background-size: cover;
     padding: 0 3%;
     display: flex;
@@ -247,7 +247,7 @@ span.line {
 }
 
 .main .main-column-right .main-1 {
-    background: url(resources/extremeenduro.jpg);
+    background: url(extremeenduro.jpg);
     background-size: cover;
     width: 50%;
     height: 50%;
@@ -312,7 +312,7 @@ span.line2 {
 }
 
 .main .main-column-right .main-4 {
-    background: url(resources/downhill.jpg);
+    background: url(downhill.jpg);
     background-size: cover;
     width: 50%;
     height: 50%;
@@ -381,7 +381,7 @@ span.line2 {
 .full-image {
     width: 50%;
     height: 40vw;
-    background: url(resources/experience.jpg);
+    background: url(experience.jpg);
     background-size: cover;
 }
 
@@ -441,7 +441,7 @@ span.line2 {
 /* Footer Banner */
 .footer-banner {
     height: 40vw;
-    background: url(resources/footer-banner.jpg);
+    background: url(footer-banner.jpg);
     background-size: cover;
     padding: 0 3%;
     display: flex;
